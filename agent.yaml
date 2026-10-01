@@ -1,0 +1,13 @@
+id: 68ff4af9be2defc486f46d17
+name: funny agent
+description: ''
+model:
+  provider: OpenAI
+  name: gpt-5-nano
+  temperature: 0.7
+  top_p: 0.9
+features: []
+tools: []
+response_format:
+  type: text
+max_iterations: 25
